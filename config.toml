@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://maartjetenda.com/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "en"
 # theme
@@ -82,7 +82,8 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "About uBlogger Theme"
+      description = "Maartje Tenda About uBlogger Theme"
+      description = "As a Senior Linux and Cloud Engineer, Maartje will build tools and automation to eliminate manual operations and craft repeatable processes."
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
@@ -221,7 +222,7 @@ enableEmoji = true
   # uBlogger theme version
   version = "2.0.X"
   # site default theme ("light", "dark", "auto")
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/upagge/dolboblog-theme"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
