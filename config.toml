@@ -41,21 +41,13 @@ enableEmoji = true
         title = ""
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-        weight = 2
-      [[languages.en.menu.main]]
         identifier = "categories"
         pre = ""
         post = ""
         name = "Categories"
         url = "/categories/"
         title = ""
-        weight = 3
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "documentation"
         pre = ""
@@ -63,7 +55,7 @@ enableEmoji = true
         name = "Docs"
         url = "/categories/documentation/"
         title = ""
-        weight = 4
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -71,7 +63,7 @@ enableEmoji = true
         name = "About"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
@@ -635,37 +627,30 @@ enableEmoji = true
       typographer = true
     [markup.goldmark.renderer]
       # whether to use HTML tags directly in the document
-      # 是否在文档中直接使用 HTML 标签
       unsafe = true
   # Table Of Contents settings
-  # 目录设置
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
 
-# Author config
 # 作者配置
 [author]
-  name = "upagge.en"
+  name = "Maartje Tenda"
 
 # Sitemap config
-# 网站地图配置
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
 
 # Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
-# Permalinks 配置 (https://gohugo.io/content-management/urls/#permalinks)
 [Permalinks]
   # posts = ":year/:month/:filename"
   posts = ":filename"
 
 # Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
-# 隐私信息配置 (https://gohugo.io/about/hugo-and-gdpr/)
 [privacy]
   # privacy of the Google Analytics (replaced by params.analytics.google)
-  # Google Analytics 相关隐私 (被 params.analytics.google 替代)
   [privacy.googleAnalytics]
     # ...
   [privacy.twitter]
@@ -674,20 +659,17 @@ enableEmoji = true
     privacyEnhanced = true
 
 # Options to make output .md files
-# 用于输出 Markdown 格式文档的设置
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
 
 # Options to make output .md files
-# 用于输出 Markdown 格式文档的设置
 [outputFormats.MarkDown]
   mediaType = "text/plain"
   isPlainText = true
   isHTML = false
 
 # Options to make hugo output files
-# 用于 Hugo 输出文档的设置
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
