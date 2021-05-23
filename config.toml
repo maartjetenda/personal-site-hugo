@@ -82,7 +82,6 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "Maartje Tenda About uBlogger Theme"
       description = "As a Senior Linux and Cloud Engineer, Maartje will build tools and automation to eliminate manual operations and craft repeatable processes."
       # site keywords
       keywords = ["Theme", "Hugo"]

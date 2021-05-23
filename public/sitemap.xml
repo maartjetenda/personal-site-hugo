@@ -2,23 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/theme-documentation-built-in-shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/theme-documentation-extended-shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/basic-markdown-syntax/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/emoji-support/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/about/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/configuration/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/installation/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/theme-documentation-basics/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/content/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/markdown/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/theme-documentation-content/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/html/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/markdown/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/emoji/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://maartjetenda.com/theme-documentation-built-in-shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/theme-documentation-extended-shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/basic-markdown-syntax/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/emoji-support/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/about/</loc><lastmod>2021-05-23T14:11:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/categories/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/configuration/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/installation/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/posts/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/theme-documentation-basics/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/content/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/markdown/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/theme-documentation-content/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/shortcodes/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/html/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/categories/markdown/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/tags/emoji/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://maartjetenda.com/categories/documentation/</loc><lastmod>2021-05-23T07:10:43&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
